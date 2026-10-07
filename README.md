@@ -1,5 +1,13 @@
 ## 📈 GitHub Activity
 
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ayuzh98&theme=github-compact"
+    alt="Ayush's GitHub Activity Graph"
+    width="100%"
+  />
+</p>
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=ayuzh98&bg_color=F3F4F6&color=2563EB&line=7C3AED&point=2563EB&area=true&hide_border=true"
