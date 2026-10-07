@@ -1,9 +1,5 @@
-<h2 align="center">🐍 My Contribution Journey</h2>
+</div>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/ayuzh98/ayuzh98/output/github-snake.svg"
-    alt="Ayush GitHub Contribution Snake"
-    width="100%"
-  />
+<img src="https://raw.githubusercontent.com/smelld41rr/smelld41rr/main/dist/github-snake-cyber.svg">
 </p>
